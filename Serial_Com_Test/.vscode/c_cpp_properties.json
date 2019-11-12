@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "d:\\Program Files (x86)\\Arduino\\tools\\**",
+                "d:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "${workspaceRoot}",
+                "C:\\Program Files\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\EEPROM\\src",
+                "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\SPI\\src",
+                "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\HID\\src",
+                "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\SoftwareSerial\\src",
+                "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\Wire\\src",
+                "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\avr\\include\\avr",
+                "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\avr\\include\\compat\\",
+                "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\avr\\include\\util\\",
+                "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\lib\\gcc\\avr\\4.*.*\\include",
+                "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\lib\\gcc\\avr\\4.*.*\\include-fixed",
+                "C:\\Users\\i35447\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.21\\cores\\arduino",
+                "C:\\Users\\0121\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.21\\**",
+                "C:\\Users\\0121\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "${workspaceRoot}",
+                    "C:\\Program Files\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\EEPROM\\src",
+                    "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\SPI\\src",
+                    "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\HID\\src",
+                    "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\SoftwareSerial\\src",
+                    "C:\\Program Files\\Arduino\\/hardware\\arduino\\avr\\libraries\\Wire\\src",
+                    "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\avr\\include\\avr",
+                    "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\avr\\include\\compat\\",
+                    "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\avr\\include\\util\\",
+                    "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\lib\\gcc\\avr\\4.*.*\\include",
+                    "C:\\Program Files\\Arduino\\/hardware\\tools\\avr\\lib\\gcc\\avr\\4.*.*\\include-fixed",
+                    "C:\\Users\\i35447\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.21\\cores\\arduino"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "forcedInclude": [
+                "d:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h",
+                "C:\\Users\\0121\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.21\\cores\\arduino\\Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
